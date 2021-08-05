@@ -1,0 +1,40 @@
+﻿1,Pound,Damage,40
+1,Fire Punch,Damage,60
+2,Splash,Skip,0
+2,Sonic Boom,Damage,70
+2,Power Up,Up,10
+1,Disable,Down,5
+2,Stun Spore,Skip,0
+2,Bite,Damage,65
+2,Flamethrower,Damage,70
+1,Ice Beam,Damage,45
+1,Peck,Damage,55
+2,Solar Beam,Damage,95
+2,Screech,Damage,65
+2,Tunderbolt,Damage,85
+1,Meditate,Heal,100
+1,Clamp,Damage,45
+0,Kinesis,Damage,20
+2,Sugon,Damage,120
+1,Triple Kick,Damage,60
+2,Sandstorm,Damage,50
+2,Thief,Down,10
+1,Hail,Damage,30
+3,Sharingan,Damage,130
+2,Dark Magician,Damage,100
+2,Za Warudo,Skip,0
+4,Wrecking Ball,Damage,180
+1,Absorb,Heal,50
+2,Aeroblast,Damage,100
+1,Barrage,Damage,30
+3,Bolt Strike,Damage,120
+4,Bubble,Down,30
+3,Bulk Up,Up,30
+2,Coil,Up,10
+1,Constrict,Damage,10
+2,Crush Claw,Damage,85
+1,Cut,Damage,45
+2,Doom Desire,Damage,30
+1,Double Slap,Damage,15
+5,Frenzy Frost,Damage,180
+2,Guillotine,Damage,85
